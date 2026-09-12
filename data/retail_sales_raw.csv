@@ -1,0 +1,65 @@
+order_id,product,category,price,quantity,customer_city,order_date,rating
+1001,Notebook Set,Stationery,149.0,1.0,Chennai,2026-04-17,5.0
+1002,Wall Clock,Home,799.0,3.0,Mumbai,2026-03-29,3.0
+1003,Yoga Mat,Fitness,999.0,2.0,Hyderabad,2026-06-07,3.0
+1004,Coffee Mug,Home,299.0,4.0,delhi,22/01/2026,1.0
+1005,Wall Clock,Home,749.0,4.0,Hyderabad,2026-01-15,5.0
+1006,Yoga Mat,Fitness,,3.0,Bangalore,2026-03-05,5.0
+1007,Notebook Set,Stationery,299.0,1.0,Chennai,2026-01-18,
+1008,Bluetooth Speaker,Electronics,1999.0,1.0,delhi,2026-02-22,4.0
+1009,Notebook Set,Stationery,149.0,1.0,Hyderabad,2026-06-24,4.0
+1010,Bluetooth Speaker,Electronics,1949.0,2.0,Pune,2026-05-14,5.0
+1011,Bluetooth Speaker,Electronics,1999.0,4.0,delhi,2026-01-14,4.0
+1012,Notebook Set,Stationery,149.0,1.0,Pune,2026-02-09,5.0
+1013,Coffee Mug,Home,299.0,1.0,Bangalore,2026-05-04,4.0
+1014,Wireless Mouse,Electronics,799.0,3.0,Delhi,2026-03-29,4.0
+1015,Yoga Mat,Fitness,899.0,4.0,,2026-06-12,2.0
+1016,Notebook Set,Stationery,Rs.199.0,,Bangalore,2026-05-15,4.0
+1017,Wireless Mouse,Electronics,899.0,3.0,Bangalore,2026-04-14,5.0
+1018,Yoga Mat,Fitness,999.0,3.0,Pune,2026-05-11,5.0
+1019,Notebook Set,Stationery,199.0,1.0,Chennai,15/01/2026,4.0
+1020,Yoga Mat,Fitness,899.0,4.0,bangalore ,2026-04-06,3.0
+1021,Notebook Set,Stationery,299.0,3.0,Mumbai,2026-01-29,2.0
+1022,Yoga Mat,Fitness,849.0,2.0,delhi,2026-02-14,3.0
+1023,Running Shoes,Fitness,,4.0,delhi,2026-04-02,
+1024,Wireless Mouse,Electronics,799.0,3.0,Pune,2026-05-01,5.0
+1025,Notebook Set,Stationery,199.0,1.0,Pune,2026-06-14,4.0
+1026,Backpack,Fashion,1899.0,2.0,Hyderabad,2026-04-06,4.0
+1027,Wireless Mouse,Electronics,799.0,4.0,Bangalore,2026-02-08,4.0
+1028,Wireless Mouse,Electronics,799.0,3.0,Delhi,2026-01-02,2.0
+1029,Coffee Mug,Home,299.0,1.0,Mumbai,06/05/2026,4.0
+1030,Desk Lamp,Home,1249.0,3.0,Mumbai,2026-05-03,5.0
+1031,Coffee Mug,Home,249.0,2.0,Pune,2026-05-19,5.0
+1032,Water Bottle,Fitness,Rs.449.0,3.0,Pune,2026-04-03,4.0
+1033,Running Shoes,Fitness,3499.0,2.0,,2026-05-27,3.0
+1034,Water Bottle,Fitness,499.0,4.0,Hyderabad,2026-02-08,3.0
+1035,Water Bottle,Fitness,,2.0,Chennai,2026-06-08,4.0
+1036,Wall Clock,Home,799.0,4.0,Bangalore,2026-04-23,3.0
+1037,Coffee Mug,Home,399.0,4.0,Mumbai,2026-01-09,5.0
+1038,Yoga Mat,Fitness,849.0,4.0,Pune,2026-04-30,5.0
+1039,Wireless Mouse,Electronics,749.0,2.0,Hyderabad,2026-03-25,4.0
+1040,Water Bottle,Fitness,499.0,1.0,bangalore ,2026-05-26,4.0
+1041,Desk Lamp,Home,Rs.1299.0,,bangalore ,2026-06-18,1.0
+1042,Coffee Mug,Home,249.0,4.0,Hyderabad,2026-05-16,5.0
+1043,Wireless Mouse,Electronics,749.0,3.0,Mumbai,2026-04-29,5.0
+1044,Desk Lamp,Home,1399.0,3.0,Pune,2026-01-08,5.0
+1045,Wireless Mouse,Electronics,749.0,3.0,Hyderabad,2026-03-02,5.0
+1046,Wireless Mouse,Electronics,799.0,4.0,Bangalore,2026-06-07,
+1047,Yoga Mat,Fitness,849.0,1.0,bangalore ,2026-01-24,5.0
+1048,Yoga Mat,Fitness,849.0,1.0,Bangalore,2026-06-09,4.0
+1049,Bluetooth Speaker,Electronics,1999.0,2.0,Chennai,2026-02-23,5.0
+1050,Backpack,Fashion,1899.0,4.0,Chennai,2026-03-27,4.0
+1051,Wall Clock,Home,799.0,2.0,Delhi,2026-04-14,5.0
+1052,Notebook Set,Stationery,299.0,,Chennai,2026-01-26,5.0
+1053,Wall Clock,Home,799.0,4.0,bangalore ,2026-01-20,5.0
+1054,Yoga Mat,Fitness,849.0,2.0,,2026-02-01,2.0
+1055,Water Bottle,Fitness,499.0,3.0,Pune,2026-05-05,5.0
+1056,Wireless Mouse,Electronics,749.0,2.0,Pune,2026-01-15,3.0
+1057,Wireless Mouse,Electronics,899.0,4.0,Bangalore,2026-04-18,3.0
+1058,Running Shoes,Fitness,3499.0,3.0,Hyderabad,21/02/2026,
+1059,Wall Clock,Home,799.0,1.0,Hyderabad,2026-03-04,5.0
+1060,Wall Clock,Home,899.0,2.0,bangalore ,2026-03-03,5.0
+1040,Water Bottle,Fitness,499.0,1.0,bangalore ,2026-05-26,4.0
+1042,Coffee Mug,Home,249.0,4.0,Hyderabad,2026-05-16,5.0
+1003,Yoga Mat,Fitness,999.0,2.0,Hyderabad,2026-06-07,3.0
+1049,Bluetooth Speaker,Electronics,1999.0,2.0,Chennai,2026-02-23,5.0
